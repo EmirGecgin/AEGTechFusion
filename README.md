@@ -8,6 +8,8 @@ This project includes a website developed to strengthen the online presence of t
 
 !The project is entirely my own imagination.
 
+!!I designed my page to be responsive.
+
 You can reach my project with this link:
 
 https://emirgecgin.github.io/AEGTechFusion/
