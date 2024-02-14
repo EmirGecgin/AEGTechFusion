@@ -1,0 +1,15 @@
+.message-icon {
+    height: 50px !important;
+    width: 50px !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.contact-icon {
+    width: 50px !important;
+    height: 50px !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}

@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+.icon-part {
+    height: 50px !important;
+    width: 50px !important;
+    justify-content: center !important;
+    align-items: center !important;
+    display: inline-flex;
+}
+
+.quotation-part {
+    background-color: rgb(235, 235, 235) !important;
+}
+
+.bracket {
+    color: #000000 !important;
+    font-weight: bolder;
+    font-size: larger;
+    text-align: center;
+}
+
+.input-group {
+    width: 100% !important;
+}
